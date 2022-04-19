@@ -11,7 +11,8 @@ public abstract class Vehicle {
     public enum Color {
         Red,
         Blue,
-        Green
+        Green,
+        Yellow
     }
 
     public Color getColor() {
